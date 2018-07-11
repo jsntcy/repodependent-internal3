@@ -1,2 +1,2 @@
-# Index file for Open Publishing
+# Index file for Open Publishing Build
 [ref_file](include.md)
